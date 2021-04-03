@@ -37,6 +37,6 @@
     color: red;
 }
 
-.sidebarRow.selected> .sidebarRow__title{
+.sidebarRow.selected > .sidebarRow__title{
     font-weight: bold;
 }
